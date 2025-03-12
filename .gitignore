@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.vscode
+output
+build
+diff_rasterization/diff_rast.egg-info
+diff_rasterization/dist
+tensorboard_3d
+screenshots
+*.exr
+test_camera.py
+*.pth
+*.npy
+*.so
