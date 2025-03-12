@@ -2,6 +2,8 @@
 
 This repository is the official code for CVPR 2025 paper *RNG: Relightable Neural Gaussians*.
 
+Please refer to the [project page](https://whois-jiahui.fun/project_pages/RNG/index.html) for more information.
+
 ## Dataset
 
 This code should be compatible with the dataset structure from [NRHints](https://github.com/iamNCJ/NRHints).
