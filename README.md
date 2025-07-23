@@ -35,7 +35,7 @@ $ python train.py -s DATA_PATH -m OUTPUT_PATH --iterations 100000 --save_iterati
 Example:
 
 ```bash
-$ python render.py -m OUTPUT_PATH  --iteration 100000 --eval --json --color_mlp --defer_shading --in_channels 16 --shadow_map --depth_mlp --depth_mlp_modifier 1.0 --encoding_levels_each 2 --encoding_levels_shadow 8 --max_reso 512 --crop_pc 1.0 --output_depth --output_alpha --output_shadow
+$ python render.py -m OUTPUT_PATH  --iteration 100000 --eval --json --color_mlp --defer_shading --in_channels 16 --shadow_map --depth_mlp --depth_mlp_modifier 1.0 --encoding_levels_each 2 --encoding_levels_shadow 8 --max_reso 512 --crop_pc 1.0 [--output_depth --output_alpha --output_shadow]
 ```
 
 ## BibTeX
